@@ -1,0 +1,145 @@
+{
+
+
+	"app.NH":"Home",
+	"app.NC":"Customers",
+	"app.NA":"About Us",
+	"app.NE":"News",
+	"app.NCU":"Contact Us",
+	"app.Introduccion":"Unique team of Resources Management" ,
+	"app.Introduccion2":"and Optimization Experts and passionate",
+	"app.Introduccion3":"Software Developers.",
+
+	"app.Home":"A World Class Global Enterprise",
+	"app.Home1.1":"Mexican Company with the following experience since 2006: Resource Optimization Consultancy and Configuration Support Services IT Software Solutions Development",
+
+	"app.Home2":"Capabilities",
+	"app.Home2.1":"know more about us",
+
+	"app.Home3":"Our Porpuse",
+	"app.Home3.1":"Streamline the world mobility",
+
+	"app.S1":"Our Services",
+	"app.S2":"Implementation",
+	"app.S3":"Interfaces Development",
+	"app.S4":"Consultancy",
+	"app.S5":"Bussines Rules Development",
+	"app.S6":"Auditing",
+
+
+	"app.NP":"News and updates",
+	"app.NP1":"Forum BJXAEROSPACE",
+	"app.NP2":" Oct 31, 2020 ",
+	"app.NP3":"We invite you to participate in the \"2nd Business Forum of the Bajìo A.C Aerospace Cluster\", follow the conferences, panels, and meetups of the event on our platform and social networks. Click on the link: bjxaerospace.org and Register!",
+	"app.NP4":"14th Anniversary OPTIMEN",
+	"app.NP5":" Oct 19, 2020 ",
+	"app.NP7":"14 years streamlining global mobility through a passionate software developers team. Congratulations TEAM Optimen!",
+	"app.NP8":"4OPS by Optimen",
+	"app.NP10":" Oct 15, 2020 ",
+	"app.NP11":"We are proud of our new Technological Solution to achieve our Purpose: Streamline the World Mobility!",
+	"app.NP12":"Red Hat Business Partner",
+	"app.NP13":" Aug 19, 2020 ",
+	"app.NP14":"We are pleased to announce that Optimen has been integrated as Business Partner Solution Provider by Red Hat. This alliance enhance our commitment to bring efficient and optimal solutions to our clients.",
+
+	"app.WO":"Why Choose Us",
+	"app.WO1":"A World Class Global Enterprise",
+
+	"app.COL":"Partnerships and Affiliations",
+	"app.Award":"Awards And Certifications",
+
+	"app.Customers":"Our Customers",
+	"app.Customers1":"Through our experience as certified Jeppesen/Boeing consultants, we contribute to the support of the configuration and customization of state-of-the-art optimization software for several key airlines in the aeronautical sector at an international level.",
+	"app.Customers2":"Our Project Experience",
+	"app.Customers3":"Through our experience as certified Jeppesen/Boeing consultants, we contribute to the support of the configuration and customization of state-of-the-art optimization software for several key airlines in the aeronautical sector at an international level."
+,
+	"app.About":"What is Optimen?",
+	"app.About2":"Optimen is a Mexican Software Development company that provides resources management and optimization services to different industries. The company was designated and approved as an International Service Contractor for Jeppesen and Boeing.",
+	"app.About3":"Mission",
+	"app.About4":"Support and facilitate Air Lines around the world to maintain reliable and sustainable operations through Technology, Innovation and living our Values.",
+	"app.About5":"Vision",
+	"app.About6":" To be the First option in Software, Technology and Innovation services for the global Airlines in the area of Aeronautical operational control.",
+	
+	"app.About7":"Values",
+	"app.About9":"Trustworthy",
+	"app.About10":"Respect",
+	"app.About11":"Integrity",
+	"app.About12":"Teamwork",
+	"app.About13":"Innovation",
+
+	"app.About14":"Airline Experience",
+	"app.About15":"Experience 1",
+	"app.About16":"Associated with long experience in the Airline Industry with high trust and tight relation with commercial airlines and industry key players.",
+	"app.About17":"Experience 2",
+	"app.About18":" Broad experience developing software in real Airline Operational Control Systems and implementation of Optimization Software.",
+	"app.About19":"Experience 3",
+	"app.About20":"Strong Project Management following the industry best practices.",
+
+	"app.Story":"Our Story Through the Time",
+	"app.Story2":"First years",
+	"app.Story3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat in magna at sagittis.",
+	"app.Story4":"The beginning",
+	"app.Story5":"First support team",
+	"app.Story6":"On the big league",
+	"app.Story7":"Opening",
+	"app.Story8":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat in magna at sagittis.",
+	"app.Story9":"Our Opening",
+	"app.Story10":"Optimen and the Aerospace Cluster",
+	"app.Story11":"First South American Client",
+	"app.Story12":"Guanajuato Talent",
+	"app.Story13":"Go Innovation Forum",
+	"app.Story14":"Other Relationships",
+	"app.Story15":"Growth",
+	"app.Story16":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat in magna at sagittis.",
+	"app.Story17":"Innovation Hub Optimen",
+	"app.Story18":"Going global",
+	"app.Story19":"UTNG relationship",
+	"app.Story20":"Aeroclúster Querétaro",
+	"app.Story21":"CANIETI-CLUTIG",
+	"app.Story22":"Distinctive \"Marca GTO\" ",
+	"app.Story23":"Actually",
+	"app.Story24":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat in magna at sagittis.",
+	"app.Story25":"Distinctive \"Marca GTO\"",
+	"app.Story26":"EDUCAFIN EVOLUCIONA",
+
+	"app.Innovation":"Innovation Hub",
+	"app.Innovation2":"Hannover Messe",
+	"app.Innovation3":" Optimen family present at \" Industrial Transformation Mexico, Hannover Messe \" HANNOVER MESSE is the most important international platform and hot spot for industrial transformation - with excellent innovations or unusual products.",
+	"app.Innovation4":"Jun 24, 2020",
+	"app.Innovation5":"Ana Avatar XPrize",
+	"app.Innovation6":"Optimen teamed up with Inbiodroid are working together on ANA Avatar XPRIZE challenge that aims to create an Avatar system that can transport human presence to a remote location in real time.",
+	"app.Innovation7":"Jan 01, 2020",
+	"app.Innovation8":"Innovation Hub",
+	"app.Innovation9":"Innovation Hub",
+	"app.Innovation10":" Optimen inaugurated its innovation center, a space focus on competencies development for the aeronautical sector.",
+	"app.Innovation11":"Feb 12, 2019",
+	"app.Innovation12":"EDUCATE OPTIMEN",
+	"app.Innovation13":"Dec 08, 2021",
+	"app.Innovation14":"Aws Mentefactura GTO Challenge",
+	"app.Innovation15":"Aws Mentefactura GTO Challenge",
+	"app.Innovation16":" Hackathon organized by the alliance between AWS, Optimen, Educafin, IdeaGTO, SEG and GAP with the purpose that students, Guanajuato talent, will execute innovative projects aimed at improving airport services.",
+	"app.Innovation17":"Apr 20, 2021",
+
+	"app.News":"News",
+	"app.Contact":"Contact Us",
+	"app.Name":"Name",
+	"app.Email":"Email",
+	"app.Pass":"Password",
+	"app.Number":"Phone Number",
+	"app.As":"Subject",
+	"app.SI":"Request information",
+	"app.SR":"Request meeting",
+	"app.R":"Other",
+	"app.Mes":"Message",
+	"app.csend":"Send"
+
+
+	
+	
+
+
+
+
+
+
+
+}
